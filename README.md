@@ -60,4 +60,4 @@ This is state-level, observational data. It shows that expansion states improved
 
 I'm Rocket (Sokunbi Victor Oluwaseun), a data analyst working with Power BI, Excel, and Python. This is part of my #PowerBIPortfolioSeries.
 
-Feel free to reach out on [LinkedIn](add-your-link-here).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/victor-sokunbi-26217a22b/).
