@@ -2,7 +2,7 @@
 
 A Power BI dashboard looking at how the uninsured rate changed across US states after the Affordable Care Act, and whether Medicaid expansion made a real difference.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](https://github.com/cider-code/US-Health-Insurance-Dashboard/blob/main/US_Insurance_Dashboard.png)
 
 ## Why I built this
 
